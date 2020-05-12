@@ -1,6 +1,6 @@
---
+---
 title: "On asking for help"
---
+---
 # Background
 * I had been asking for help from other team desperately day after day in two weeks.
 * My company's development team is using SCRUM and has 3 week sprint.
