@@ -12,7 +12,7 @@ I haven't made any experiment to examine but I found some interesting informatio
 - 02: [Falsehoods Programmers Believe About Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md)
 
 Summary:
-- int data type's query performanceis slightly better (not much but noticeable)
+- int data type's query performance is slightly better (not much but noticeable)
 - int and string aren't much different when it comes to insert performance
 - int is more efficient in DB table storage size
 
