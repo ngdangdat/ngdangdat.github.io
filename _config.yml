@@ -2,6 +2,9 @@ theme: minima
 title: ngdangdat's space
 description: Things I learn
 
+site:
+  title: ngdangdat's space
+
 minima:
   social_links:
     github: ngdangdat
