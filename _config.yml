@@ -1,3 +1,12 @@
 theme: minima
 title: ngdangdat's space
 description: Things I learn
+
+author:
+  name: ngdangdat
+  email: ngdangdat09@gmail.com
+
+minima:
+  social_links:
+    github: ngdangdat
+
