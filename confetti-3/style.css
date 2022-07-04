@@ -1,0 +1,25 @@
+.wrapper {
+    text-align: center;
+    margin-top: 25%;
+    display: block;
+}
+
+.btn {
+    background-color: #64ffda;
+    border-color: #64ffda;
+    color: #020c1b;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 14px 60px;
+    text-align: center;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+}

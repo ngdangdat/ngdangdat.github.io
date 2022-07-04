@@ -1,3 +1,7 @@
+.hidden {
+    display: none !important;
+}
+
 .confetti {
     display: flex;
     justify-content: center;
@@ -7,6 +11,7 @@
     height: 100%;
     overflow: hidden;
     z-index: 1000;
+    top: 0;
 }
 .confetti-piece {
     position: absolute;
@@ -191,4 +196,31 @@
     from {opacity: 0;}
     50% {opacity: 1;}
     to {-webkit-transform: translateY(350px);}
+}
+
+.wrapper {
+    text-align: center;
+    margin-top: 25%;
+    display: block;
+}
+
+.btn {
+    cursor: pointer;
+    background-color: #64ffda;
+    border-color: #64ffda;
+    color: #020c1b;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 14px 60px;
+    text-align: center;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
 }
