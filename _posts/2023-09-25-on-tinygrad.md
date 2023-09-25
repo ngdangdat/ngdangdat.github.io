@@ -9,3 +9,4 @@ When I randomly checked the repository again and found [the post explaining tiny
 Out of nowhere, I spent a day to find all the resources (on neural network 101, tinygrad documentation) to start get my hands on tinygrad. It's quite exciting.
 
 Just write down to mark a day firework lit inside my head. Thanks, Geogre!
+
