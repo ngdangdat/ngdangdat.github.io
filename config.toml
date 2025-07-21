@@ -114,7 +114,7 @@ ignoreFiles = ["themes/keepit/content/.*"]
 
   # Search config
   [params.search]
-    enable = true
+    enable = false
     # type of search engine ["lunr", "algolia"]
     type = "lunr"
     # max index length of the chunked content
