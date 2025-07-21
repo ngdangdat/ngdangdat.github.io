@@ -20,7 +20,7 @@ ignoreFiles = ["themes/keepit/content/.*"]
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "About"
+    name = "/about"
     url = "/about/"
     # title will be shown when you hover on this menu link
     title = ""
